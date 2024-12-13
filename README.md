@@ -6,4 +6,4 @@ a partir da base dados, foi criado um dashboard para gerar informações relevan
 Excel
 
 ## 🧐 Processo de Criação
-# Desafio do bootcamp DIO - IA Generativa com Microsoft Copilot
+Desafio do bootcamp DIO - IA Generativa com Microsoft Copilot
